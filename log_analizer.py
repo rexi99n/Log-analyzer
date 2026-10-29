@@ -1,6 +1,4 @@
 access_log = open("access.log", "r")
-ip_list = []
-lines_with_failed_logins = []
 no_ip_logs= 0
 ignored_lines = 0
 failed_logins = 0
