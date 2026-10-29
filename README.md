@@ -1,6 +1,6 @@
 ¿Qué problema resuelve el script?
 
-Este script es un analizador de logs hecho en python, que detecta y ordena ips maliciosas, hace uso de un archivo (un acces.log) para analizarlo
+Este script es un analizador de logs hecho en python, que detecta y ordena ips maliciosas, hace uso de un archivo (un access.log) para analizarlo
 
 
 ¿Cómo se ejecuta?
